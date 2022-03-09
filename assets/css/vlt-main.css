@@ -2306,8 +2306,7 @@ dl dd
 .vlt-navbar
 {
     position: relative;
-    z-index: 50; 
-    background-color: #101010;
+    z-index: 50;
 
     -webkit-transition: background-color 300ms;
             transition: background-color 300ms;
