@@ -4732,7 +4732,7 @@ dl dd
 
 .vlt-project-showcase--style-1 .vlt-project-showcase__title
 {
-    font-size: 60px;
+    font-size: 50px;
     line-height: 1.57;
 
     display: inline-block;
@@ -4743,7 +4743,7 @@ dl dd
 {
     .vlt-project-showcase--style-1 .vlt-project-showcase__title
     {
-        font-size: 46px;
+        font-size: 36px;
     }
 }
 .vlt-project-showcase--style-1 .vlt-project-showcase__title a
