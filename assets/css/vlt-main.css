@@ -2307,7 +2307,7 @@ dl dd
 {
     position: relative;
     z-index: 50; 
-    color: #101010;
+    background-color: #101010;
 
     -webkit-transition: background-color 300ms;
             transition: background-color 300ms;
